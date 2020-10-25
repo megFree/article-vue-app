@@ -1,0 +1,25 @@
+{
+  "users": [
+    { "name": "Sergey", "password": "qwerty" },
+    { "name": "Alina", "password": "123456" },
+    { "name": "Alex", "password": "222222" }
+  ],
+  "article": {
+    "title": "Lorem Ipsum",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et congue ex. Cras a ante venenatis, gravida ligula convallis, efficitur mi. Donec justo tortor, porta eget posuere sit amet, condimentum sit amet eros. Curabitur nec imperdiet metus. Curabitur rutrum velit arcu, vitae consequat enim rutrum efficitur. Duis posuere congue purus sed malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget egestas risus. Pellentesque sollicitudin magna faucibus velit sodales sagittis. Curabitur ac egestas odio. Maecenas ante ex, aliquam id consectetur at, finibus quis orci. Phasellus turpis massa, luctus vel erat sed, mollis semper nisi. Morbi sit amet suscipit turpis. Ut accumsan enim libero, nec aliquam nisl tempus id. Sed aliquam mauris eu velit pharetra, semper porta quam ultricies. Nunc aliquam dolor ut nulla iaculis viverra. Aenean finibus mattis eros. Proin eget aliquet nulla, ut malesuada dolor. Sed nulla lectus, ultricies porttitor felis vitae, eleifend tincidunt erat. Ut sollicitudin lectus ut ornare varius. Integer sed vulputate nisi, convallis facilisis massa. In hac habitasse platea dictumst. Mauris quis auctor quam. Mauris pulvinar ultricies vestibulum. Mauris porta ex eu mollis suscipit. Phasellus ut dolor varius, ullamcorper magna eget, porttitor enim. Vivamus sed dui non neque vehicula porttitor. Pellentesque id augue vitae turpis tempus ultrices. Nulla non velit nunc. Pellentesque congue nisi eu augue posuere aliquam. Aliquam sed tortor ultricies, placerat arcu sodales, fringilla libero. Cras id auctor risus. Quisque laoreet lorem non elit lobortis convallis. Integer scelerisque viverra venenatis. Morbi pulvinar fringilla diam id condimentum. Maecenas et tellus id mi fermentum blandit id in leo. Maecenas lorem enim, consectetur sed auctor sed, facilisis quis felis. Praesent felis nunc, imperdiet id urna in, suscipit gravida nulla. Suspendisse malesuada elit in nisi tempus volutpat. Nullam quis arcu quis lorem fermentum cursus. Proin vehicula, enim eget fringilla interdum, sapien nunc porta lorem, eget porttitor erat ligula sit amet nunc. Sed scelerisque risus ac ultricies cursus. Aliquam ac varius massa. Donec non aliquam justo. In dolor erat, lobortis non vehicula id, sollicitudin vitae mauris. Cras viverra erat a varius vulputate. Integer iaculis, libero vitae congue sagittis, nisl purus posuere metus, ut egestas massa quam eget est. Donec at condimentum elit. Proin ac commodo augue. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ullamcorper neque metus, non mattis felis auctor et. Phasellus lacinia et quam vel imperdiet. Praesent varius nibh sem, id condimentum neque placerat sed. Phasellus fermentum nisi quis mi finibus, aliquam ornare mauris tincidunt. Suspendisse potenti. Proin elementum ut purus ac luctus. Duis vehicula dolor sit amet volutpat cursus. Praesent pulvinar pulvinar metus id rutrum. Integer congue congue justo, sed luctus ligula volutpat ut. Cras mattis lobortis egestas. In eget varius risus. Nam venenatis, enim ut imperdiet dapibus, sem velit eleifend odio, ac convallis ex leo in ex. Fusce eu magna eget libero mollis sollicitudin. Nam sed felis et purus dignissim mollis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin sit amet neque eget risus efficitur interdum. Ut dictum tempus dolor scelerisque porttitor. Nunc ac dictum ligula.",
+    "comments": [
+      {
+        "id": 0,
+        "user": "Sergey",
+        "text": "Duis aute irure",
+        "date": "2020-09-23 09:30"
+      },
+      {
+        "id": 1,
+        "user": "Alina",
+        "text": "tempor incididunt ut labore",
+        "date": "2020-09-23 22:30"
+      }
+    ]
+  }
+}
